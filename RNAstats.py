@@ -1,3 +1,5 @@
+#author: Jerome Waldispuhl
+
 from  math import log;
 
 def loop_counter(structure):

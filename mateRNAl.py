@@ -26,6 +26,8 @@
 #SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE                  #
 ###############################################################################
 
+#author: Carlos Oliver
+
 import begin
 import sys
 import multiprocessing

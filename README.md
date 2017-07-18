@@ -39,3 +39,4 @@ Each run produces a `.csv` file that can be easily parsed with tools such as [pa
 ```
 generation, sequence, structure, energy, probability, gc, mutations, 
 ```
+Manuscript submitted and available upon request.
