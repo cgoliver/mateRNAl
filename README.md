@@ -2,20 +2,7 @@
 
 `mateRNAl` is an RNA evolutionary simulation tool implemented in Python. Simulations can be based on two fitness measurements: base pair distance to a target, or energy of MFE structure on sequence. Simulations can also be constrained to only allow sequences with a specified GC content. 
 
-### Citing
 
-```
-@article{oliver2019emergence,
-  title={On the emergence of structural complexity in RNA replicators},
-  author={Oliver, Carlos G and Reinharz, Vladimir and Waldisp{\"u}hl, J{\'e}r{\^o}me},
-  journal={RNA},
-  volume={25},
-  number={12},
-  pages={1579--1591},
-  year={2019},
-  publisher={Cold Spring Harbor Lab}
-}
-```
 ### Requirements
 
 * python 2.7+
@@ -53,4 +40,17 @@ Each run produces a `.csv` file that can be easily parsed with tools such as [pa
 ```
 generation, sequence, structure, energy, probability, gc, mutations, 
 ```
-Manuscript submitted. [Preprint](https://www.biorxiv.org/content/early/2017/11/15/218990)
+### Citing
+
+```
+@article{oliver2019emergence,
+  title={On the emergence of structural complexity in RNA replicators},
+  author={Oliver, Carlos G and Reinharz, Vladimir and Waldisp{\"u}hl, J{\'e}r{\^o}me},
+  journal={RNA},
+  volume={25},
+  number={12},
+  pages={1579--1591},
+  year={2019},
+  publisher={Cold Spring Harbor Lab}
+}
+```
